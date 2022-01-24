@@ -17,7 +17,7 @@ namespace Core.DataAccess
     {
         List<T> GetAll(Expression<Func<T,bool>>filter=null);
 
-        T Get();
+        T Get(Expression<Func<T, bool>> filter);
 
         void Add(T entity);  // Interface methodları default public'tir.
         void Update(T entity);
