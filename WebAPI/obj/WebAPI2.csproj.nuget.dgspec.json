@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ahmet\\source\\repos\\FinalProject\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\ahmet\\source\\repos\\FinalProject\\WebAPI\\WebAPI2.csproj": {}
   },
   "projects": {
     "C:\\Users\\ahmet\\source\\repos\\FinalProject\\Business\\Business.csproj": {
@@ -274,12 +274,12 @@
         }
       }
     },
-    "C:\\Users\\ahmet\\source\\repos\\FinalProject\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\ahmet\\source\\repos\\FinalProject\\WebAPI\\WebAPI2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmet\\source\\repos\\FinalProject\\WebAPI\\WebAPI.csproj",
-        "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\ahmet\\source\\repos\\FinalProject\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ahmet\\source\\repos\\FinalProject\\WebAPI\\WebAPI2.csproj",
+        "projectName": "WebAPI2",
+        "projectPath": "C:\\Users\\ahmet\\source\\repos\\FinalProject\\WebAPI\\WebAPI2.csproj",
         "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ahmet\\source\\repos\\FinalProject\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
@@ -328,12 +328,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[5.6.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
