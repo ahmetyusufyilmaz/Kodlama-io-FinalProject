@@ -64,3 +64,8 @@ C:\Users\ahmet\source\repos\FinalProject\WebAPI\bin\Debug\net5.0\Business.dll
 C:\Users\ahmet\source\repos\FinalProject\WebAPI\bin\Debug\net5.0\DataAccess.dll
 C:\Users\ahmet\source\repos\FinalProject\WebAPI\bin\Debug\net5.0\Business.pdb
 C:\Users\ahmet\source\repos\FinalProject\WebAPI\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\ahmet\source\repos\FinalProject\WebAPI\bin\Debug\net5.0\Autofac.dll
+C:\Users\ahmet\source\repos\FinalProject\WebAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\ahmet\source\repos\FinalProject\WebAPI\bin\Debug\net5.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\ahmet\source\repos\FinalProject\WebAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\ahmet\source\repos\FinalProject\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
