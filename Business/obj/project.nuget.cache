@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "E/CgZbe9mvH4NJkV4NM1MCNPUE2mI71BNi8v/9p7ut6wXxRn0fxVu5zQxnNh4j7RZwyT4vqoRUZV46BMPLAvmg==",
+  "dgSpecHash": "kL8tTPrv1X+N7o/4//m8hwPk1daws4D0VQDx8hlizL7ahk0wr80iDlsRQqtp8zU3UxIJT7XWu2zODvwokRD9uw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ahmet\\source\\repos\\FinalProject\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmet\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
     "C:\\Users\\ahmet\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\ahmet\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\ahmet\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",

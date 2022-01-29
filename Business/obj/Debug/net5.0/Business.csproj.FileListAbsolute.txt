@@ -16,4 +16,3 @@ C:\Users\ahmet\source\repos\FinalProject\Business\obj\Debug\net5.0\ref\Business.
 C:\Users\ahmet\source\repos\FinalProject\Business\obj\Debug\net5.0\Business.pdb
 C:\Users\ahmet\source\repos\FinalProject\Business\bin\Debug\net5.0\Core.dll
 C:\Users\ahmet\source\repos\FinalProject\Business\bin\Debug\net5.0\Core.pdb
-C:\Users\ahmet\source\repos\FinalProject\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
